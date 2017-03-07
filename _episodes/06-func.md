@@ -25,7 +25,7 @@ keypoints:
 - "Specify default values for parameters when defining a function using `name=value` in the parameter list."
 - "Parameters can be passed by matching based on name, by position, or by omitting them (in which case the default value is used)."
 ---
-
+PRACTICE LINE
 At this point,
 we've written code to draw some interesting features in our inflammation data,
 loop over all our data files to quickly draw these plots for each of them,
